@@ -67,8 +67,8 @@ const Content = () => {
         <h2>Explore My Skills</h2>
       </div>
       <div className="outside"> 
-        <div className="tickerwrapper" style={{ border: "2px solid black" }}>
-          <ul className='list' style={{ border: "2px solid black" }}>
+        <div className="tickerwrapper">
+          <ul className='list'>
             <li className='listitem' >
               <span> <span>&#8226;</span>HTML</span>
             </li>
